@@ -1,0 +1,2 @@
+# sudokus
+sudoku solving algos
